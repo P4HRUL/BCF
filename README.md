@@ -9,3 +9,6 @@
 ➠cd BCF
 ➠python BCF.py
 ```
+```
+***ketik rm -rf BCF dulu untuk mengupdate Script Kemudian ulang dari git clone***
+```
